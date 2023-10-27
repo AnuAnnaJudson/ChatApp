@@ -8,7 +8,7 @@ Created backend using simple node js code
 * here usng the Get or create user inside  the users to build the put request which will create user if doesnt exist
 *  To use the out rest api as in this project pass the private key from https://chatengine.io which you get once logged in and create a project.
 
-### Run the app using:### **npm run start**
+### Run the app using *npm run start* ###
 
 Created front-end using *npm create vite@latest*
 (use npm run dev to start the application)
